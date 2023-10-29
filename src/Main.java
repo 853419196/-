@@ -78,17 +78,6 @@ class MyFrame extends JFrame
         secondComboBox.addItem("貴社いよいよご隆盛のこととお慶び申し上げます。");
         secondComboBox.addItem("貴社ますます御隆昌にてお慶び申し上げます。");
         secondComboBox.addItem("貴店ますますご発展のこととお慶び申し上げます。");
-        secondComboBox.addItem("貴行ますますご清栄のことお慶び申し上げます。");
-        secondComboBox.addItem("ますます御健勝のこととお慶び申し上げます。");
-        secondComboBox.addItem("時下ますますご清祥の段、お慶び申し上げます。");
-        secondComboBox.addItem("貴社ますますご盛栄のこととお慶び申し上げます。");
-        secondComboBox.addItem("貴社ますますご清祥のこととお慶び申し上げます。");
-        secondComboBox.addItem("貴社いよいよご清栄のこととお慶び申し上げます。");
-        secondComboBox.addItem("貴社いよいよご清祥のこととお慶び申し上げます。");
-        secondComboBox.addItem("貴社ますますご繁栄のこととお慶び申し上げます。");
-        secondComboBox.addItem("貴社いよいよご隆盛のこととお慶び申し上げます。");
-        secondComboBox.addItem("貴社ますます御隆昌にてお慶び申し上げます。");
-        secondComboBox.addItem("貴店ますますご発展のこととお慶び申し上げます。");
         secondComboBox.addItem("貴行ますますご清栄のこととお慶び申し上げます。");
         secondComboBox.addItem("ますます御健勝のこととお慶び申し上げます。");
         secondComboBox.addItem("時下ますますご清祥の段、お慶び申し上げます。");
